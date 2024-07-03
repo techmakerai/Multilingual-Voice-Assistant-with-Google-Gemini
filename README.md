@@ -1,4 +1,4 @@
-# Multilingual-Voice-Assistant-with-Google-Gemini
+# Multilingual Voice Assistant with Google Gemini
 
 A voice assistant (chatbot) built with Python and Google Gemini API for multilingual conversation. 
 
