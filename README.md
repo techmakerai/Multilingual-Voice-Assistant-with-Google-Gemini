@@ -3,7 +3,7 @@
 A voice assistant (chatbot) built with Python and Google Gemini API for multilingual conversation. 
 
 Please watch this YouTube video to learn more about this code:    
-https://youtu.be/ndryupjDXG8
+https://youtu.be/gYFGHyB_VJ0
 
 Before you can run this code on your computer, you will need to install the following packages:
 
